@@ -1,0 +1,8 @@
+path: /home/PycharmProject/WB-YOLO
+tain: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+nc: 2
+
+names: ['Hipposideros armiger','Hipposideros pratti']
