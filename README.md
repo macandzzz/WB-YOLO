@@ -5,3 +5,4 @@ The study of bat species and their distribution is vital for understanding the o
 
 ![fig1](https://github.com/user-attachments/assets/e556a29e-5de1-4326-b5db-e9210289771f)
 
+![fig6](https://github.com/user-attachments/assets/725e9f95-aa30-4fb9-a2fc-e8de13c22bcb)
